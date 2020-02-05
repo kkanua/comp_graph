@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>resource/About.gif</file>
+        <file>resource/Exit.gif</file>
+        <file>resource/new.png</file>
+        <file>resource/open.png</file>
+        <file>resource/0*vdUY_dRmKtBvgYaM.jpeg</file>
+        <file>resource/Open-Folder-512.png</file>
+        <file>resource/Apple_classic_10Icon_5px_grid-04-512.png</file>
+    </qresource>
+</RCC>
